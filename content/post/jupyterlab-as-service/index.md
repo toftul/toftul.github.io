@@ -8,8 +8,8 @@ license:
 hidden: false
 comments: true
 draft: false
-tags: ["linux"]
-categories: []
+tags: ["linux", "systemd"]
+categories: ["linux"]
 ---
 
 # jupyter lab as service
