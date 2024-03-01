@@ -8,6 +8,8 @@ license: MIT
 hidden: false
 comments: true
 draft: false
+tags: ["linux"]
+categories: []
 ---
 
 # jupyter lab as service
@@ -32,11 +34,13 @@ WantedBy=default.target
 https://stackoverflow.com/a/54063685
 
 Basically, you need to generate config file by
+
 ```shell
 jupyter lab --generate-config
 ```
 
 and then add/uncomment these lines in `~/.jupyter/jupyter_lab_config.py`:
+
 ```python
 # Configuration file for lab.
 
@@ -58,6 +62,7 @@ c.ServerApp.ip = "0.0.0.0"
 ```
 
 and also set password by
+
 ```shell
 jupyter lab password
 ```
