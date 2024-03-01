@@ -14,6 +14,8 @@ categories: []
 
 # jupyter lab as service
 
+## Systemd config
+
 ```systemd
 # Place this in ~/.config/systemd/user
 [Unit]
