@@ -4,7 +4,7 @@ description:
 date: 2024-03-01T11:12:30+11:00
 image:
 math: true
-license: MIT
+license:
 hidden: false
 comments: true
 draft: false

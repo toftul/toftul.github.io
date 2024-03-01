@@ -4,7 +4,7 @@ description:
 date: {{ .Date }}
 image:
 math: true
-license: MIT
+license:
 hidden: false
 comments: true
 draft: true
