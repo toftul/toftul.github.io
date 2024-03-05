@@ -11,9 +11,26 @@ menu:
 ---
 
 
-# About 
+# Hi 
+
+Hi! My name is Ivan Toftul. I love science and technology.
 
 
-$$
-x + 1 = \beta
-$$
+# Science 
+
+
+Check my google scholar for more.
+
+# Open source contributions
+
+Main things are:
+- https://github.com/toftul/mielib
+- https://github.com/toftul/refractiveindex
+- https://github.com/toftul/itmo-phd-thesis-template-ru and https://github.com/toftul/itmo-phd-thesis-template-en
+
+Check my github for more.
+
+# Contact
+
+- toftul.ivan@gmail.com (preferred)
+- ivan.toftul@anu.edu.au
