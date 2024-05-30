@@ -13,7 +13,7 @@ menu:
 
 # Hi 
 
-Hi! My name is Ivan Toftul. I love science and technology.
+Hi! My name is Ivan Toftul. I love science, technology, and open source.
 
 
 # Science 
